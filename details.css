@@ -1,0 +1,23 @@
+body {
+  height: 1vh;
+  background-color: black;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.view {
+    text-align: center;
+    color: white;
+}
+
+
+.slack_image {
+    border-radius: 50%;
+}
+
+
+.source_code_link {
+    text-decoration: none;
+    border: 1px solid grey;
+    padding: 3px;
+    background-color: goldenrod; 
+}
