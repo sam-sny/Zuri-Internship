@@ -1,1 +1,1 @@
-document.getElementById('time').innerHTML = "Current UTC Time: " + Date.now();
+document.getElementById('time').innerHTML = Date.now();
